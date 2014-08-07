@@ -5,8 +5,8 @@ $google_client_secret 	= 'BXxxBrEz-JuiXKEIZ9Xp4Wyr';
 $google_redirect_url 	= 'http://citysolution.co.in/index.php'; 
 $google_developer_key 	= 'AIzaSyBbOIk4b4trL4HjpF18mk-UWgRgRu3B1c0';
 
-$db_username = "yourvb1y_new"; 
-$db_password = "new123"; 
+$db_username = "yourvb1y_xxxx"; 
+$db_password = "newxxxxxx"; 
 $hostname = "localhost"; 
 $db_name = 'yourvb1y_hachi'; 
 
